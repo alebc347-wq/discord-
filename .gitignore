@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.agents/
+.gemini/
+scratch/
+.env.development
+.env.production
+.env.local
+venv/
+.venv/
+env/
+*.log
+.system_generated/
